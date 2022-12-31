@@ -16,7 +16,7 @@
     "blend4web": "^17.12.0-dp.0"
   },
   "devDependencies": {
-    "webpack": "3.10.0",
+    "webpack": "5.75.0",
     "webpack-dev-server": "2.9.7"
   }
 }
